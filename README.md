@@ -1,0 +1,1 @@
+PatientVoiceConnect is an AI-powered, human‑like healthcare assistant that collects and verifies patient information through natural, empathetic conversations. It remembers details, detects duplicates, ensures accuracy, and securely syncs data with medical systems for a smooth, personal registration experience.
