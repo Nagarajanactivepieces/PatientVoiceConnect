@@ -27,12 +27,12 @@ export function setupRoutes(app: Express) {
 
   response.say(
     { voice: "alice" },
-    "Please wait while we connect your call to our AI assistant."
+    "Welcome to patient Registration."
   );
   response.pause({ length: 1 });
   response.say({ voice: "alice" }, "You can begin speaking after the tone.");
   response.connect().stream({
-    url: "wss://78ac3e5cd7c0.ngrok-free.app/media-stream",
+    url: "wss://3d56e563ff3c.ngrok-free.app/media-stream",
   });
 
   res.type("text/xml");

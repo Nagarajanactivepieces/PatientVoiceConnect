@@ -21,3 +21,4 @@ export interface FullPatientData {
   PatientInformation: PatientInformation;
   Address: Address;
 }
+
